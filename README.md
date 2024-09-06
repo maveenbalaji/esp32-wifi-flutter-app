@@ -28,7 +28,7 @@ The ESP32 Control App is a Flutter-based mobile application designed to remotely
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/esp32-control-app.git
+   git clone https://github.com/maveenbalaji/esp32-wifi-flutter-app.git
    ```
 
 2. Navigate to the project directory:
